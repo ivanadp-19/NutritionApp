@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>425175049496-hk5j5mut51ifg57c2ib2gjqa1oavfgmk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.425175049496-hk5j5mut51ifg57c2ib2gjqa1oavfgmk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>425175049496-g3b9alqvktemo8506v683ogveat5gcbj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvjSXwS_Ewun5g2SN3c3CdTUdGNBlV9DQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>425175049496</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.nutri</string>
+	<key>PROJECT_ID</key>
+	<string>majoapp-c8b98</string>
+	<key>STORAGE_BUCKET</key>
+	<string>majoapp-c8b98.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:425175049496:ios:85a36cdab4ebfc4538aa6d</string>
+</dict>
+</plist>

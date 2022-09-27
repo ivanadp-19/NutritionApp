@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "425175049496",
+    "project_id": "majoapp-c8b98",
+    "storage_bucket": "majoapp-c8b98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425175049496:android:2631a83a471f0dbc38aa6d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.courts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425175049496-h2jrh5287c95d0d68ihu249qt8f7e2ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJlVfCEO_Fr6G9KL0UGVciDIzZEGarmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425175049496-h2jrh5287c95d0d68ihu249qt8f7e2ro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425175049496-bcv4vi274kj8cft7ilv8nfuqsomhlctg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.courts"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425175049496:android:d2636e7fd379e23838aa6d",
+        "android_client_info": {
+          "package_name": "com.mycompany.nutri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425175049496-g3b9alqvktemo8506v683ogveat5gcbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.nutri",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "425175049496-h2jrh5287c95d0d68ihu249qt8f7e2ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJlVfCEO_Fr6G9KL0UGVciDIzZEGarmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425175049496-h2jrh5287c95d0d68ihu249qt8f7e2ro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425175049496-bcv4vi274kj8cft7ilv8nfuqsomhlctg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.courts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
